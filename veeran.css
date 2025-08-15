@@ -2,7 +2,6 @@
 padding:0px;
 margin:0px;
 }
-
 :root{
 --backcolor:white;
 --bgcolor:#ff000d;
@@ -14,11 +13,6 @@ margin:0px;
 --thanos:0.8s linear 5s 1 normal forwards endgame;
 --master:0.8s linear 5.7s 1 normal forwards leo;
 --nanban:0.8s linear 2s 1 normal forwards frd;
-
-
-
-
-
 /*
 --captain:typing 2s steps(13) infinite;
 --america:blink 2s step-end infinite alternate ;
@@ -26,7 +20,6 @@ background-color:linear-gradient(pink,puple,orange,red);
 (#F5EFED,#05A1F5);
 */
 }
-
 
 body {
 height:330vw;
@@ -40,13 +33,10 @@ position:fixed;
 border-right:2px solid blue;
 padding:10px 0px 10px 10px;
 width:18%;
-
 line-height:2.9rem;
 font-size:1.6em;
 z-index:1;
 }
-
-
 
 .hakkim {
 font-size:20px;
@@ -73,7 +63,6 @@ color:red;
 transition:background-color 0.5s ease,color 0.8s ease;
 }
 
-
 .menu li:hover {
 cursor:pointer;
 background-color:white;
@@ -81,57 +70,42 @@ text-align:center;
 width:100%;
 color:red;
 }
-
-
-
 /*
-
-
 .con  {
 font-size:20px;
 }
-
-
 .link {
 text-decoration:none;
 font-size:20px;
 text-align:center;
 }
   */
-
 main {
 display:block;
 text-align:center;
 padding-top:100px;
 padding-right:200px;
-
 } 
-
 
 .faisal {
 font-size:1.5em;
 padding-bottom:15px;
 padding-right:270px;
 color:var(--backcolor);
-
 }
 
 .rishwan {
 font-size:35px;
 padding-bottom:15px;
-
-
 }
 
 .kadhar {
 font-size:35px;
 padding-bottom:15px;
-
 }
 
 .web {
 color:var(--bgcolor);
-
 }
 
 .profile {
@@ -145,15 +119,12 @@ box-shadow:5px 5px 5px red;
 border-radius:15px;
 }
 
-
 .para {
 text-align:center;
 padding-right:100px;
 font-size:20px;
 padding-top:30px;
-
 }
-
 
 .next {
 display:block;
@@ -163,9 +134,7 @@ line-height:35px;
 .portfolio {
 padding-left:235px;
 padding-top:23px;
-
 }
-
 
 .font {
 border-width:5px;
@@ -177,9 +146,7 @@ font-size:22px;
 padding:5px;
 }
 
-
 .laptop {
-
 column-count:2;
 column-width:100px;
 gap:5px;
@@ -187,7 +154,6 @@ font-size:15px;
 padding-top:160px;
 padding-left:220px;
 width:75%;
-
 }
 
 .papa{
@@ -198,14 +164,11 @@ border-radius:10px;
 margin:13px;
 padding:5px;
 animation:var(--thor);
-
 }
-
 
 .laptop p{
 padding:5px;
 }
-
 
 .laptop h2{
 padding:5px;
@@ -220,9 +183,7 @@ margin:13px;
 height:107px;
 padding:5px;
 animation:var(--tony);
-
 }
-
 
 .kum {
 display:inline-block;
@@ -232,7 +193,6 @@ border-radius:10px;
 margin:13px;
 padding:5px;
 animation:var(--thanos);
-
 }
 
 .thanj{
@@ -244,9 +204,7 @@ margin:13px;
 height:100px;
 padding:5px;
 animation:var(--hulk);
-
 }
-
 
 .bca{
 display:inline-block;
@@ -257,7 +215,6 @@ margin:13px;
 padding:5px;
 height:105px;
 animation:var(--wanda);
-
 }
 
 .motion{
@@ -269,7 +226,6 @@ margin:13px;
 height:100px;
 padding:5px;
 animation:var(--master);
-
 }
 
 .idea {
@@ -281,33 +237,25 @@ padding-left:200px;
 color:red;
 }
 
-
 .latest{
 display:block;
 font-size:50px;
-
 }
 .thani{
 font-size:50px;
-
 }
-
 
 .bus {
 text-align:center;
 font-size:20px;
 padding-left:200px;
 padding-top:30px;
-
 }
 
 .vikram {
 display:block;
 line-height:35px;
 }
-
-
-
 
 .source{
 display:flex;
@@ -318,9 +266,7 @@ padding-top:100px;
 padding-left:200px;
 }
 
-
 .container{
-
 display:inline
 border:2px solid black;
 height:350px;
@@ -335,17 +281,14 @@ padding-top:5px;
 font-size:30px;
 }
 
-
 .container h5{
 display:flex;
 font-size:25px;
 z-index:-1;
 }
 
-
 .model{
 display:inline;
-
 border:2px solid black;
 height:350px;
 width:400px;
@@ -365,10 +308,7 @@ margin-top:10px;
 margin-left:15px;
 padding:5px 5px 0px 5px;
 background-image:radial-gradient(#f00745,#002087);
-
 }
-
-
 
 .border2 {
 display:flex;
@@ -379,11 +319,9 @@ margin-top:15px;
 margin-left:15px;
 padding:5px 5px 0px 5px;
 background-image:radial-gradient(#f00745,#002087);
-
 }
 
 .paris {
-
 width:180px;
 height:180px;
 border-radius:2%;
@@ -392,18 +330,15 @@ margin-top:90px;
 }
 
 .dubai {
-
 width:220px;
 height:220px;
 z-index:999;
 border-radius:2%;
 margin-top:50px;
-
 overflow:hidden;
 }
 
 .saudi {
-
 width:180px;
 height:180px;
 border-radius:2%;
@@ -412,7 +347,6 @@ margin-top:90px;
 }
 
 .explore {
-
 width:220px;
 height:220px;
 z-index:999;
@@ -421,14 +355,12 @@ margin-top:50px;
 overflow:hidden;
 }
 
-
 .model h5{
 display:flex;
 font-size:25px;
 z-index:-1;
 padding:5px;
 }
-
 
 .transform {
 display:flex;
@@ -441,12 +373,10 @@ font-size:20px;
 padding-left:230px;
 }
 
-
 .transform h4:nth-child(2) {
 text-decoration:underline;
 padding-top:30px;
 font-size:20px;
-
 margin-left:150px;
 }
 
@@ -477,9 +407,7 @@ padding-left:200px;
 color:red;
 }
 
-
 .laptop1{
-
 column-count:2;
 column-width:100px;
 gap:5px;
@@ -498,13 +426,11 @@ font-size:50px;
 font-size:50px;
 }
 
-
 .bus1 {
 text-align:center;
 font-size:20px;
 padding-left:200px;
 padding-top:30px;
-
 }
 
 .vikram1 {
@@ -522,12 +448,9 @@ padding:5px;
 padding-left:10px;
 font-size:17px;
 animation:var(--nanban);
-
-
 }
 .papa1 h2,h3{
 padding:1px;
-
 }
 
 .papa1 h3{
@@ -541,8 +464,6 @@ padding-left:3px;
 padding-top:10px;
 }
 
-
-
 .ayya1 {
 display:inline-block;
 border:2px solid black;
@@ -554,12 +475,10 @@ padding:5px;
 padding:5px;
 padding-left:10px;
 font-size:17px;
-
 }
 
 .ayya1 h2,h3{
 padding:1px;
-
 }
 
 .ayya1 h3{
@@ -573,9 +492,6 @@ padding-left:3px;
 padding-top:10px;
 }
 
-
-
-
 .thanj1 {
 display:inline-block;
 border:2px solid black;
@@ -588,13 +504,10 @@ padding:5px;
 padding:5px;
 padding-left:10px;
 font-size:17px;
-
 }
-
 
 .thanj1 h2,h3{
 padding:1px;
-
 }
 
 .thanj1 h3{
@@ -619,7 +532,6 @@ height:129px;
 padding:5px;
 padding-left:10px;
 font-size:17px;
-
 }
 
 .bca1 h2,h3{
@@ -649,7 +561,6 @@ height:180px;
 padding-left:300px;
 gap:4.5rem;
 padding-top:35px;
-
 }
 
 .enna1 {
@@ -718,7 +629,6 @@ transform:translateX(-10%) scale(1.2);
 box-shadow:10px 10px 10px black;
 }
 
-
 .last {
 padding-left:230px;
 padding-top:50px;
@@ -733,12 +643,10 @@ justify-content:center;
 text-decoration:none;
 }
 
-
 .finish img{
 border:2px solid red;
 border-radius:50%;
 z-index:999;
-
 }
 
 .instagram {
@@ -758,9 +666,7 @@ margin-top:50px;
 transition:transform 0.3s ease;
 }
 
-
 .linkedin {
-
 display:flex;
 width:90px;
 height:90px;
@@ -784,15 +690,14 @@ transform:translateY(-50%) scale(1.2);
 .whatsapp:hover,focus{
 transform:translateY(-50%) scale(1.2);
 }
+
 .linkedin:hover,focus{
 transform:translateY(-50%) scale(1.2);
 }
+
 .mailbox:hover,focus{
 transform:translateY(-50%) scale(1.2);
 }
-
-
-
 
 @keyframes thunder {
 0% {
@@ -811,8 +716,6 @@ transform:translateY(-50%) scale(1.2);
 box-shadow:5px 5px 5px red;
 }
 }
-
-
 
 @keyframes buster {
  0% {
@@ -849,8 +752,6 @@ box-shadow:5px 5px 5px red;
 box-shadow:5px 5px 5px red;
 }
 }
-
-
 
 @keyframes vision {
 0% {
@@ -906,7 +807,6 @@ box-shadow:5px 5px 5px red;
 }
 }
 
-
 @keyframes frd {
  0% {
     box-shadow: 5px 0 0 #05fa19; /* Right side */
@@ -925,38 +825,17 @@ box-shadow:5px 5px 5px red;
 }
 }
 
-
-
-
-
-
-
- body {      
-
-        /* Background: diagonal gradient */
-        background: linear-gradient(90deg,#f72585, #b5179e,#7209b7,#560bad,#480ca8,#3a0ca3,#3f37c9,#4361ee,#4895ef,#4cc9f0);
+body {   
+          /* Background: diagonal gradient */
+         background: linear-gradient(90deg,#f72585, #b5179e,#7209b7,#560bad,#480ca8,#3a0ca3,#3f37c9,#4361ee,#4895ef,#4cc9f0);
 
         /* Optional: slight animation for style */
         background-size: 400% 400%;
         animation: gradientMove 10s linear infinite;
     }
-
     /* Animate gradient */
     @keyframes gradientMove {
         0% { background-position: 0% 50%; }
         50% { background-position: 100% 50%; }
         100% { background-position: 0% 50%; }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
